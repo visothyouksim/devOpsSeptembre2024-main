@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('SCM') {
       steps {
-         git url : 'https://github.com/didier-tp/devOpsSeptembre2024.git' , branch : 'main'
+         git url : 'https://github.com/visothyouksim/devOpsSeptembre2024-main.git' , branch : 'main'
       }
     }
    stage('Build') {
