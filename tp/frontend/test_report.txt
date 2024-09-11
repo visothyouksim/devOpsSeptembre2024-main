@@ -1,0 +1,2 @@
+
+Could not find a Cypress configuration file in this folder: C:\tp\local-git-didier-tp-repositories\devOpsSeptembre2024\tp\frontend
